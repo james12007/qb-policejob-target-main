@@ -1,0 +1,1 @@
+Just simply drag and drop into your [qb] folder
